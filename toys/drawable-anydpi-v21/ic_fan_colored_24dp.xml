@@ -7,23 +7,23 @@
 
   <!-- Red upper-left blade. -->
   <path
-      android:fillColor="@android:color/holo_red_light"
+      android:fillColor="#F8682C"
       android:pathData="M 0,12 c 0,-12 12,-12 12,0"
       />
 
   <!-- Green upper-right blade. -->
   <path
-      android:fillColor="@android:color/holo_green_light"
+      android:fillColor="#91C300"
       android:pathData=" M 12,0 c 12,0 12,12 0,12"/>
 
   <!-- Blue lower-left blade. -->
   <path
-      android:fillColor="@android:color/holo_blue_light"
+      android:fillColor="#00B4F1"
       android:pathData=" M 12,12 c 0,12 12,12 12,0"/>
 
   <!-- Orange lower-right blade. -->
   <path
-      android:fillColor="@android:color/holo_orange_light"
+      android:fillColor="#FFC300""
       android:pathData=" M 12,12 c -12,0 -12,12 0,12"/>
 
 </vector>

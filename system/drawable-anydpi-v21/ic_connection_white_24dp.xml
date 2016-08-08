@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="24dp"
+    android:viewportHeight="24.0"
+    android:viewportWidth="24.0"
+    android:width="24dp">
+
+  <!-- Upper eyelet. -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M 13.4,6.4 l 3.5,-3.5 c 1.2,-1.2 3.1,-1.2, 4.2,0 s 1.2,3.1,0,4.2 l -3.5,3.5 c -0.6,0.6,-1.5,0.9,-2.3,0.9 l -1.7,1.7 c 1.8,0.7,3.9,0.3,5.3,-1.1 l 3.5,-3.5 c 1.9,-1.9,1.9,-5.1,0,-7 c -1.9,-1.9,-5.1,-1.9,-7,0 L 12,5 c -1.4,1.4,-1.8,3.5,-1.1,5.3 l 1.7,-1.7 C 12.5,7.8,12.8,7,13.4,6.4 z"/>
+
+  <!-- Center eyelet. -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M 16.9,7.1 c -0.4,-0.4,-1,-0.4,-1.4,0 l -8.4,8.4 c -0.4,0.4,-0.4,1,0,1.4 c 0.4,0.4,1,0.4,1.4,0 l 8.4,-8.4 C 17.3,8.1,17.3,7.5,16.9,7.1 z"/>
+
+  <!-- Lower eyelet. -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M 8.5,22.5 L 12,19 c 1.4,-1.4,1.8,-3.5,1.1,-5.3 l -1.7,1.7 c 0,0.8,-0.2,1.6,-0.9,2.3 l -3.5,3.5 c -1.2,1.2,-3.1,1.2,-4.2,0 c -1.2,-1.2,-1.2,-3.1,0,-4.2 l 3.5,-3.5 c 0.6,-0.6,1.5,-0.9,2.3,-0.9 l 1.7,-1.7 C 8.5,10.2,6.4,10.5,5,12 l -3.5,3.5 c -1.9,1.9,-1.9,5.1,0,7 C 3.4,24.5,6.6,24.5,8.5,22.5 z"/>
+
+</vector>
